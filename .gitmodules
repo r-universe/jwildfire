@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "graphicalMCP"]
-	path = graphicalMCP
-	url = https://github.com/jwildfire/graphicalmcp
 [submodule "safetyData"]
 	path = safetyData
 	url = https://github.com/cran/safetyData
